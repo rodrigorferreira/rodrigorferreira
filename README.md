@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rodrigo Rodrigues Ferreira
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Python/Django SQLite e MySQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... rrodrigues.dev@outlook.com
+- 👋 Oi, eu me chamo Rodrigo Rodrigues Ferreira
+- 🌱 Atualmente estou aprendendo Python/Django SQLite e MySQL
+- 📫 Você me acha através do e-mail rrodrigues.dev@outlook.com
 
 <!---
 rodrigorferreira/rodrigorferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
