@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Meu nome é Rodrigo Rodrigues</h1>
-<h3 align="center">Apaixonado por programação Web</h3>
+<h3 align="center">Especializando-se em desenvolvimento de sistemas Web</h3>
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS3, JS, Python/Django, SQLite e MySQL, Angular**
 
