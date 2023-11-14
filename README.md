@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **HTML, CSS3, JS, Python/Django, SQLite e MySQL, Angular**
 
-- 💬 Me pergunte sobre **Python/Django, SQL,VSCode,**
+- 💬 Me pergunte sobre **JavaScript, Python/Django, SQLite, MySQL, VSCode,**
 
 - 📫 Você me acha através do e-mail **rrodrigues.dev@outlook.com**
 
