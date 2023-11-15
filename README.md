@@ -4,7 +4,7 @@
 
 - 🌱 Atualmente estou aprendendo **JavaScript, Python/Django, SQLite e MySQL, Angular**
 
-- 👯 Estou colaborando [Master Fight](masterfight.com.br)
+- 👯 Estou colaborando com o projeto [Master Fight](masterfight.com.br)
 
 - 💬 Pergunte-me sobre **JavaScript, Python/Django, SQLite, MySQL, Angular**
 
