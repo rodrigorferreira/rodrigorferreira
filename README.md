@@ -48,22 +48,15 @@ Estou atualmente trabalhando e aprendendo as seguintes linguagens e ferramentas:
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> &nbsp;
 
 
-</br> 
+</br> </br>  
 
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 5px;">
-    <a href="https://github.com/rodrigorferreira">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorferreira&theme=algolia&show_icons=true" alt="GitHub Stats" style="width: 100%;">
-    </a>
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <a href="https://github.com/rodrigorferreira">
-      <img src="https://github-readme-stats.vercel.app/api?username=rodrigorferreira&theme=algolia&show_icons=true" alt="Top Languages" style="width: 100%;">
-    </a>
-  </div>
-</div>
+<a href="https://github.com/rodrigorferreira">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorferreira&theme=algolia&show_icons=true" alt="GitHub Stats" style="width: 30%;"></a>  &nbsp;
 
-</br>
+<a href="https://github.com/rodrigorferreira">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigorferreira&theme=algolia&show_icons=true" alt="Top Languages" style="width: 60%;"></a>
+  
+</br> </br>
 
 ![Visitor Count](https://profile-counter.glitch.me/rodrigorferreira/count.svg)
 
