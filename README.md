@@ -50,6 +50,7 @@ Estou atualmente trabalhando e aprendendo as seguintes linguagens e ferramentas:
 
 </br> </br>  
 
+<p align="center">
 <a href="https://github.com/rodrigorferreira">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorferreira&theme=algolia&show_icons=true" alt="GitHub Stats" style="width: 30%;"></a>  &nbsp;
 
@@ -58,6 +59,7 @@ Estou atualmente trabalhando e aprendendo as seguintes linguagens e ferramentas:
   
 </br> </br>
 
-![Visitor Count](https://profile-counter.glitch.me/rodrigorferreira/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/rodrigorferreira/count.svg)"
+
 
 
