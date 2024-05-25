@@ -4,6 +4,7 @@
 Aprimorando os conhecimentos técnicos de Fron-end e Back-end para desenvolver soluções. 📚 💻
 
 - 👯 Estou colaborando com a: [Master Fight](masterfight.com.br)
+- Atualmente desenvolvendo um novo site para esportemedicina.com novo designe e com um sistema de agendamento de pacientes.
 
 
 ## 🌐 Contatos:
