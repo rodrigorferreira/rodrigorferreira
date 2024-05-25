@@ -47,6 +47,3 @@ Especializando-me em:
 <a href="https://github.com/rodrigorferreira">
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigorferreira&theme=algolia&show_icons=true" alt="Top Languages" style="width: 45%;"></a>
   
-</br> </br>
-
-![Visitor Count](https://profile-counter.glitch.me/rodrigorferreira/count.svg)
