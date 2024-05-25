@@ -1,23 +1,23 @@
-<h1 align="center">Olá👋, Meu nome é Rodrigo e sejam bem-vindos ao meu GitHub</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento de sistemas web e estou sempre buscando novas tecnologias e formas de melhorar minhas habilidades.</h3>
+<h1 align="center">Olá👋, Meu nome é Rodrigo e seja bem-vindo ao meu GitHub</h1>
+<h3 align="center">Sou apaixonado por desenvolvimento de sistemas web e estou sempre buscando novas tecnologias e formas de aprimorar minhas habilidades.</h3>
 
-Aprimorando os conhecimentos técnicos de Fron-end e Back-end para desenvolver soluções. 📚 💻
+Aprimorando os conhecimentos técnicos de Front-end e Back-end para desenvolver soluções. 📚 💻
 
-- 🤝 Estou colaborando com a: [Master Fight](masterfight.com.br)
-- 💻 Atualmente desenvolvendo um novo site para esportemedicina.com com novo designe e com um sistema de agendamento de pacientes.
+- 🤝 Estou colaborando com: [Master Fight](https://masterfight.com.br)
+- 💻 Atualmente desenvolvendo um novo site para [esportemedicina.com](https://esportemedicina.com) com um novo design e um sistema de agendamento de pacientes.
 
 
 ## 🌐 Contatos:
-Você pode se conectar comigo através do </br>
+Conecte-se comigo:</br>
 <p align="left"> 
 <a href="mailto:rrodrigues.dev@outlook.com" target="_blank" rel="noreferrer" title="Outlook"> 
   <img src="https://www.outlook.com/favicon.ico" alt="mail" width="40" height="40"/></a> &nbsp;
   
-<a href="https://www.linkedin.com/in/rodrigo-rf81" target="_blank" rel="noreferrer" title="Linkedin"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29" alt="linkedin" width="110" height="40"/> </a>
+<a href="https://www.linkedin.com/in/rodrigo-rf81" target="_blank" rel="noreferrer" title="LinkedIn"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" width="110" height="40"/> </a>
 
-## 🛠️ Linguagens e Ferramentas (SKILL's)
-Estou me especializando nas seguintes linguagens e ferramentas:
+## 🛠️ Linguagens e Ferramentas (Skills)
+Especializando-me em:
 
 <p align="left"> 
     
@@ -42,14 +42,11 @@ Estou me especializando nas seguintes linguagens e ferramentas:
 
 <p align="center">
 <a href="https://github.com/rodrigorferreira">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorferreira&theme=algolia&show_icons=true" alt="GitHub Stats" style="width: 30%;"></a>  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigorferreira&theme=algolia&show_icons=true" alt="GitHub Stats" style="width: 45%;"></a>  &nbsp;
 
 <a href="https://github.com/rodrigorferreira">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigorferreira&theme=algolia&show_icons=true" alt="Top Languages" style="width: 60%;"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigorferreira&theme=algolia&show_icons=true" alt="Top Languages" style="width: 45%;"></a>
   
 </br> </br>
 
-![Visitor Count](https://profile-counter.glitch.me/rodrigorferreira/count.svg)"
-
-
-
+![Visitor Count](https://profile-counter.glitch.me/rodrigorferreira/count.svg)
