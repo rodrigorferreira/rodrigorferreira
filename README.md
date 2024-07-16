@@ -3,8 +3,11 @@
 
 Aprimorando os conhecimentos técnicos de Front-end e Back-end para desenvolver soluções. 📚 💻
 
+Atualmente dono do site www.rrweb.com.br
+
 - 🤝 Estou colaborando com: [Master Fight](https://masterfight.com.br)
-- 💻 Atualmente desenvolvendo um novo site para [esportemedicina.com](https://esportemedicina.com) com um novo design e um sistema de agendamento de pacientes.
+- 💻 Desenvolvendo site para Nutriconista Thassiana Knofel Link: 
+- 💻 Atualmente desenvolvendo um novo site para Esporte Medicina com um novo design. Link: [www.esporte-medicina.netlify.app](https://esporte-medicina.netlify.app/)
 
 
 ## 🌐 Contatos:
