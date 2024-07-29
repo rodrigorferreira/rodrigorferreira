@@ -7,6 +7,7 @@ Atualmente dono do site www.rrweb.com.br
 
 - 💻 Desenvolvendo site para Nutriconista Thassiana Knofel Link: 
 - 💻 Criador do site Esporte Medicina com um novo design. Link: [www.esportemedicina.com)
+- 💻 Desenvolvendo o projeto. Link: https://rodrigorferreira.pythonanywhere.com/
 
 
 ## 🌐 Contatos:
