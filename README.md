@@ -3,7 +3,7 @@
 
 Aprimorando os conhecimentos técnicos de Front-end e Back-end para desenvolver soluções. 📚 💻
 
-Atualmente dono do site www.rrweb.com.br
+Proprietario da empresa www.rrweb.com.br destinado a criação, manutenção e hospedagem de sites.
 
 - 💻 Desenvolvendo site para Nutriconista Thassiana Knofel Link: 
 - 💻 Criador do site Esporte Medicina com um novo design. Link: [www.esportemedicina.com)
