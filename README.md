@@ -1,5 +1,5 @@
 <h1 align="center">Olá👋, Meu nome é Rodrigo e seja bem-vindo ao meu GitHub</h1>
-<h3 align="center">Sou apaixonado por desenvolvimento de sistemas web e estou sempre buscando novas tecnologias e formas de aprimorar minhas habilidades.</h3>
+<h3 align="center">Sou apaixonado por desenvolvimento de sites e sistemas web e estou sempre buscando novas tecnologias e formas de aprimorar minhas habilidades.</h3>
 
 Aprimorando os conhecimentos técnicos de Front-end e Back-end para desenvolver soluções. 📚 💻
 
