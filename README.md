@@ -6,8 +6,9 @@ Aprimorando os conhecimentos técnicos de Front-end e Back-end para desenvolver 
 Proprietario da empresa www.rrweb.com.br destinado a criação, manutenção e hospedagem de sites.
 
 - 💻 Desenvolvendo site para Nutriconista Thassiana Knofel Link: https://nutriknofel.netlify.app/
+- 💻 Desenvolvendo site para uma clinica de estética (em desenvolvimento). Link: https://clinicaestetica.netlify.app/
 - 💻 Desenvolvendo site para Odonto ainda em construção Link: https://demo-odonto.netlify.app/
-- 💻 Criador do site Esporte Medicina com um novo design. Link: [www.esportemedicina.com)
+- 💻 Criador do site Esporte Medicina com um novo design. Link: www.esportemedicina.com
 - 💻 Desenvolvendo o projeto. Link: https://rodrigorferreira.pythonanywhere.com/
 
 
